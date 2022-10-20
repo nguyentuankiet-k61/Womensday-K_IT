@@ -72,6 +72,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,248,1) 50%
     font-size: 18px;
     font-weight: lighter;
     overflow:hidden ;
+    margin: 90px;
 }
 
 .product-btn {
