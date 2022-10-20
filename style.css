@@ -68,11 +68,11 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,248,1) 50%
     /* height: 125px; */
     margin:0 0 0 38px;
     color: #33CC66;
-    line-height: 1.7em;
+    line-height: 1em;
     font-size: 18px;
     font-weight: lighter;
     overflow:hidden ;
-    margin: 90px;
+    
 }
 
 .product-btn {
@@ -94,7 +94,7 @@ box-shadow: 2px 2px 4px 0px #006773;
 -moz-border-radius:7px 7px 7px 7px ;
 -webkit-border-radius:7px 7px 7px 7px ;
 border-radius:7px 7px 7px 7px ;
-margin-top: 100px;
+margin-top: 90px;
 }
 /* .product-btn p {
     display: inline-block;
